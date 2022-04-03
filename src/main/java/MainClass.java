@@ -4,25 +4,20 @@ import java.util.*;
 
 public class MainClass {
     public static void main(String[] args) throws IOException {
-        String canonicalPath = new File(".").getCanonicalPath() + "\\listino.xlsx";
-        String outputFile = new File(".").getCanonicalPath() + "\\testout.txt";
-        HashMap<String, ArrayList<String[]>> fogli = new HashMap<>();
+        String inputFile = new File(".").getCanonicalPath() + "\\testout.txt";
+        FileReader fileReader = new FileReader(inputFile);
+        String[] riga;
+        ArrayList<String[]> righe = new ArrayList<>();
 
-        ExcelClass excel = new ExcelClass(canonicalPath);
-
-        fogli = excel.leggiFogli();
-
-        FileWriter fw = new FileWriter(outputFile, true);
-        for(ArrayList<String[]> s : fogli.values()){
-            for(String[] c : s){
-                String riga = String.join("|", c);
-                fw.write(riga);
-                fw.write('\n');
+        try (BufferedReader bufferedReader = new BufferedReader(fileReader)) {
+            String line;
+            while((line = bufferedReader.readLine()) != null) {
+                riga = new String[6];
+                riga = line.split("\\|");
+                righe.add(riga);
             }
-            fw.write("-------------------------------------");
         }
 
-        fw.close();
 
     }
 }

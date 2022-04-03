@@ -1,4 +1,3 @@
-Categoria|Prodotto|Link Offerta|Prezzo Piattaforma|Sconto|Iva Prodotto
 Sport |Fixfit - Il Fitness a Casa - Abbonamento Premium 12 Mesi|https://bitq.it/v2/showcase/prestigioitalia?pp=118990|44.1|0.1|0.22
 Sport |Harlem Globetrotters - 02 Novembre 2022 - Tribuna Centrale Numerata - Intero (15-65 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=39798|42.0|null|0.22
 Sport |Harlem Globetrotters - 02 Novembre 2022 - Tribuna Centrale Numerata - Ridotto (0-14 anni e >65 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=39798|36.8|null|null
@@ -56,7 +55,6 @@ Sport |Harlem Globetrotters - 09 Novembre 2022 - Parterre SILVER Numerato - Inte
 Sport |Harlem Globetrotters - 09 Novembre 2022 - Parterre SILVER Numerato - Ridotto (0-14 anni e > 65 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=39798|47.5|null|null
 Sport |Harlem Globetrotters - 09 Novembre 2022 - Tribuna Numerata - Intero (15-65 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=39798|42.0|null|null
 Sport |Harlem Globetrotters - 09 Novembre 2022 - Tribuna Numerata - Ridotto (0-14 anni e > 65 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=39798|37.0|null|null
--------------------------------------Categoria|Prodotto|Link Offerta|Prezzo Piattaforma|Sconto|Iva Prodotto
 Accademia Domani|Abbonamento 160 Corsi On-Line a Scelta|https://bitq.it/v2/showcase/prestigioitalia?pp=9384|72.0|20.00%|0.22
 Accademia Domani|Acquerello per principianti|https://bitq.it/v2/showcase/prestigioitalia?pp=65110|22.0|0.27|0.22
 Accademia Domani|Aromaterapia e oli essenziali|https://bitq.it/v2/showcase/prestigioitalia?pp=65111|22.0|0.27|0.22
@@ -74,7 +72,7 @@ Accademia Domani|Pilates|https://bitq.it/v2/showcase/prestigioitalia?pp=75890|22
 Accademia Domani|Scrittura per il Benessere|https://bitq.it/v2/showcase/prestigioitalia?pp=41021|22.0|0.27|0.22
 Accademia Domani|Tecniche Energetiche Olistiche|https://bitq.it/v2/showcase/prestigioitalia?pp=65116|22.0|0.27|0.22
 Accademia Domani|Affiliate Marketing|https://bitq.it/v2/showcase/prestigioitalia?pp=65135|22.0|0.27|0.22
-Accademia Domani|Comunicazione, Marketing e PubblicitÃ |https://bitq.it/v2/showcase/prestigioitalia?pp=48413|22.0|0.27|0.22
+Accademia Domani|Comunicazione, Marketing e Pubblicità|https://bitq.it/v2/showcase/prestigioitalia?pp=48413|22.0|0.27|0.22
 Accademia Domani|Design Thinking|https://bitq.it/v2/showcase/prestigioitalia?pp=65136|22.0|0.27|0.22
 Accademia Domani|Digital Marketing|https://bitq.it/v2/showcase/prestigioitalia?pp=48397|22.0|0.27|0.22
 Accademia Domani|Event Planner|https://bitq.it/v2/showcase/prestigioitalia?pp=48414|22.0|0.27|0.22
@@ -88,7 +86,7 @@ Accademia Domani|SEO Specialist|https://bitq.it/v2/showcase/prestigioitalia?pp=2
 Accademia Domani|Web Journalist|https://bitq.it/v2/showcase/prestigioitalia?pp=48417|22.0|0.27|0.22
 Accademia Domani|Cake Designer|https://bitq.it/v2/showcase/prestigioitalia?pp=48404|22.0|0.27|0.22
 Accademia Domani|Comics Creator|https://bitq.it/v2/showcase/prestigioitalia?pp=48388|22.0|0.27|0.22
-Accademia Domani|Corso di Adobe PhotoshopÂ Completo|https://bitq.it/v2/showcase/prestigioitalia?pp=65118|22.0|0.27|0.22
+Accademia Domani|Corso di Adobe Photoshop Completo|https://bitq.it/v2/showcase/prestigioitalia?pp=65118|22.0|0.27|0.22
 Accademia Domani|Corso di Make Up|https://bitq.it/v2/showcase/prestigioitalia?pp=48408|22.0|0.27|0.22
 Accademia Domani|Disegno Artistico a Mano Libera|https://bitq.it/v2/showcase/prestigioitalia?pp=48391|22.0|0.27|0.22
 Accademia Domani|Esperto di Moda|https://bitq.it/v2/showcase/prestigioitalia?pp=48405|22.0|0.27|0.22
@@ -141,18 +139,18 @@ Accademia Domani|Business English|https://bitq.it/v2/showcase/prestigioitalia?pp
 Accademia Domani|Lingua francese, preparazione per DELF A1 e A2|https://bitq.it/v2/showcase/prestigioitalia?pp=41048|22.0|0.27|0.22
 Accademia Domani|Lingua inglese A1 e A2 (impara la lingua inglese da zero)|https://bitq.it/v2/showcase/prestigioitalia?pp=24536|22.0|0.27|0.22
 Accademia Domani|Lingua inglese B1 (preparazione all'esame PET)|https://bitq.it/v2/showcase/prestigioitalia?pp=65137|22.0|0.27|0.22
-Accademia Domani|LinguaÂ francese, preparazione per DELFÂ B1 e B2|https://bitq.it/v2/showcase/prestigioitalia?pp=65139|22.0|0.27|0.22
-Accademia Domani|LinguaÂ franceseÂ preparazione per B2 e C1 (Le franÃ§ais avec le Petit Prince)|https://bitq.it/v2/showcase/prestigioitalia?pp=65138|22.0|0.27|0.22
+Accademia Domani|Lingua francese, preparazione per DELF B1 e B2|https://bitq.it/v2/showcase/prestigioitalia?pp=65139|22.0|0.27|0.22
+Accademia Domani|Lingua francese preparazione per B2 e C1 (Le franÃ§ais avec le Petit Prince)|https://bitq.it/v2/showcase/prestigioitalia?pp=65138|22.0|0.27|0.22
 Accademia Domani|Russo da Zero|https://bitq.it/v2/showcase/prestigioitalia?pp=24537|22.0|0.27|0.22
 Accademia Domani|Ammissione ai Corsi di Ingegneria|https://bitq.it/v2/showcase/prestigioitalia?pp=41024|22.0|0.27|0.22
 Accademia Domani|Ammissione Medicina, Odontoiatria, Veterinaria, Professioni Sanitarie|https://bitq.it/v2/showcase/prestigioitalia?pp=41025|22.0|0.27|0.22
 Accademia Domani|Corso di Latino|https://bitq.it/v2/showcase/prestigioitalia?pp=41026|22.0|0.27|0.22
-Accademia Domani|Matematica per l'UniversitÃ  (ANALISI I/ANALISI II)|https://bitq.it/v2/showcase/prestigioitalia?pp=41030|22.0|0.27|0.22
+Accademia Domani|Matematica per l'Università (ANALISI I/ANALISI II)|https://bitq.it/v2/showcase/prestigioitalia?pp=41030|22.0|0.27|0.22
 Accademia Domani|Matematica per le Superiori|https://bitq.it/v2/showcase/prestigioitalia?pp=41027|22.0|0.27|0.22
 Accademia Domani|Corso di Seduzione|https://bitq.it/v2/showcase/prestigioitalia?pp=41018|22.0|0.27|0.22
 Accademia Domani|Relazioni Interpersonali|https://bitq.it/v2/showcase/prestigioitalia?pp=41013|22.0|0.27|0.22
 Accademia Domani|Superare la Timidezza|https://bitq.it/v2/showcase/prestigioitalia?pp=41029|22.0|0.27|0.22
-Accademia Domani|Tantra e SessualitÃ |https://bitq.it/v2/showcase/prestigioitalia?pp=41023|22.0|0.27|0.22
+Accademia Domani|Tantra e Sessualità|https://bitq.it/v2/showcase/prestigioitalia?pp=41023|22.0|0.27|0.22
 Accademia Domani|Coaching Mindset del Successo Allenamento per raggiungere i propri obiettivi|https://bitq.it/v2/showcase/prestigioitalia?pp=87809|131.12|0.12|0.22
 Accademia Domani|Coaching Potere Personale Le leve del coaching per esprimere il tuo potenziale|https://bitq.it/v2/showcase/prestigioitalia?pp=87808|131.12|0.12|0.22
 Accademia Domani|Comunicazione Efficace : Come rendere la Comunicazione Efficace e conoscere basi di Public Speaking e PNL|https://bitq.it/v2/showcase/prestigioitalia?pp=87812|131.12|0.12|0.22
@@ -172,7 +170,7 @@ Accademia Domani|Box - Le Cene Stellate - Il Pesto del Re|https://bitq.it/v2/sho
 Accademia Domani|Box - Le Cene Stellate - Peccati Di Viola|https://bitq.it/v2/showcase/prestigioitalia?pp=27331|31.2|0.2|0.1
 Accademia Domani|Box - Le Cene Stellate - Peccati di Viola Riserva - Numbered Edition|https://bitq.it/v2/showcase/prestigioitalia?pp=36315|79.2|0.2|0.1
 Accademia Domani|Box - Le Cene Stellate - Roma Tokyo In Venti Minuti|https://bitq.it/v2/showcase/prestigioitalia?pp=27332|31.2|0.2|0.1
-Accademia Domani|Box - Le Cene Stellate - Sua MaestÃ  Bianco Tartufo|https://bitq.it/v2/showcase/prestigioitalia?pp=27329|36.0|0.2|0.1
+Accademia Domani|Box - Le Cene Stellate - Sua Maestà Bianco Tartufo|https://bitq.it/v2/showcase/prestigioitalia?pp=27329|36.0|0.2|0.1
 Accademia Domani|Video Corso Di Acconciature|https://bitq.it/v2/showcase/prestigioitalia?pp=65152|43.0|14% - 40%|0.22
 Accademia Domani|Video Corso Di Make Up|https://bitq.it/v2/showcase/prestigioitalia?pp=65153|43.0|14% - 40%|0.22
 Accademia Domani|Facebook Ads|https://bitq.it/v2/showcase/prestigioitalia?pp=65148|86.0|14% - 40%|0.22
@@ -213,10 +211,10 @@ Accademia Domani|Inglese Da Viaggio|https://bitq.it/v2/showcase/prestigioitalia?
 Accademia Domani|Inglese di Base A1-A2|https://bitq.it/v2/showcase/prestigioitalia?pp=49779|42.5|14% - 40%|0.22
 Accademia Domani|Inglese Intermedio B1-B2|https://bitq.it/v2/showcase/prestigioitalia?pp=49780|42.5|14% - 40%|0.22
 Accademia Domani|Disturbi Di Apprendimento Nei Bambini|https://bitq.it/v2/showcase/prestigioitalia?pp=65154|43.0|14% - 40%|0.22
-Accademia Domani|GenitorialitÃ  E Figli|https://bitq.it/v2/showcase/prestigioitalia?pp=65155|64.5|14% - 40%|0.22
+Accademia Domani|Genitorialità E Figli|https://bitq.it/v2/showcase/prestigioitalia?pp=65155|64.5|14% - 40%|0.22
 Accademia Domani|Gestione Dello Stress|https://bitq.it/v2/showcase/prestigioitalia?pp=65157|64.5|14% - 40%|0.22
 Accademia Domani|Seduzione E Persuasione|https://bitq.it/v2/showcase/prestigioitalia?pp=65156|43.0|14% - 40%|0.22
-Accademia Domani|Tutti Gli Aspetti Della SessualitÃ |https://bitq.it/v2/showcase/prestigioitalia?pp=65158|43.0|14% - 40%|0.22
+Accademia Domani|Tutti Gli Aspetti Della Sessualità|https://bitq.it/v2/showcase/prestigioitalia?pp=65158|43.0|14% - 40%|0.22
 Accademia Domani|Crea Un Impresa|https://bitq.it/v2/showcase/prestigioitalia?pp=65142|64.5|14% - 40%|0.22
 Accademia Domani|Elementi Di Microeconomia|https://bitq.it/v2/showcase/prestigioitalia?pp=65141|43.0|14% - 40%|0.22
 Accademia Domani|Leadership|https://bitq.it/v2/showcase/prestigioitalia?pp=65145|64.5|14% - 40%|0.22
@@ -258,7 +256,7 @@ Accademia Domani|Kundalini Yoga - Il potere curativo del Cervello|https://bitq.i
 Accademia Domani|La mente Quantica|https://bitq.it/v2/showcase/prestigioitalia?pp=138697|44.85|0.35|0.22
 Accademia Domani|Restart 100%: Rimetti in moto il tuo corpo e perdi peso senza dieta!|https://bitq.it/v2/showcase/prestigioitalia?pp=138690|31.85|0.35|0.22
 Accademia Domani|Corso Avanzato di Barman|https://bitq.it/v2/showcase/prestigioitalia?pp=138702|109.85|0.35|0.22
-Accademia Domani|Corso avanzato di ContabilitÃ  e Bilancio|https://bitq.it/v2/showcase/prestigioitalia?pp=119036|83.85|0.35|0.22
+Accademia Domani|Corso avanzato di Contabilità e Bilancio|https://bitq.it/v2/showcase/prestigioitalia?pp=119036|83.85|0.35|0.22
 Accademia Domani|Corso Base di Barman|https://bitq.it/v2/showcase/prestigioitalia?pp=138701|122.85|0.35|0.22
 Accademia Domani|Corso di Analisi di Bilancio|https://bitq.it/v2/showcase/prestigioitalia?pp=119035|83.85|0.35|0.22
 Accademia Domani|Corso di Digital HR|https://bitq.it/v2/showcase/prestigioitalia?pp=119037|38.35|0.35|0.22
@@ -309,9 +307,9 @@ Accademia Domani|Cucina Professionale Italiana Avanzata|https://bitq.it/v2/showc
 Accademia Domani|Cucina Professionale Italiana di Base|https://bitq.it/v2/showcase/prestigioitalia?pp=65066|24.5|0.5|0.22
 Accademia Domani|Cucina Professionale Italiana Intermedio|https://bitq.it/v2/showcase/prestigioitalia?pp=65067|24.5|0.5|0.22
 Accademia Domani|Cucina Vegana|https://bitq.it/v2/showcase/prestigioitalia?pp=31012|24.5|0.5|0.22
-Accademia Domani|Degustazione della Birra: Tecniche e Segreti per Riconoscere la Birra di Qualità |https://bitq.it/v2/showcase/prestigioitalia?pp=76547|24.5|0.5|0.22
+Accademia Domani|Degustazione della Birra: Tecniche e Segreti per Riconoscere la Birra di Qualità|https://bitq.it/v2/showcase/prestigioitalia?pp=76547|24.5|0.5|0.22
 Accademia Domani|Dieta Vegan: Come Bilanciare L'Alimentazione a Base Vegetale|https://bitq.it/v2/showcase/prestigioitalia?pp=31009|24.5|0.5|0.22
-Accademia Domani|Dietetica dell'EtÃ  Pediatrica: Sapere Come Porre delle Buone Basi per la Salute dei Bambini|https://bitq.it/v2/showcase/prestigioitalia?pp=65064|24.5|0.5|0.22
+Accademia Domani|Dietetica dell'Età Pediatrica: Sapere Come Porre delle Buone Basi per la Salute dei Bambini|https://bitq.it/v2/showcase/prestigioitalia?pp=65064|24.5|0.5|0.22
 Accademia Domani|Floriterapia: Fiori di Bach e Fiori Australiani Contro lo Stress|https://bitq.it/v2/showcase/prestigioitalia?pp=9443|24.5|0.5|0.22
 Accademia Domani|Giovani e Sani con la Giusta Alimentazione|https://bitq.it/v2/showcase/prestigioitalia?pp=9442|24.5|0.5|0.22
 Accademia Domani|Le Basi della Pasticceria Vegana: Impasti Soffici e Creme|https://bitq.it/v2/showcase/prestigioitalia?pp=31015|24.5|0.5|0.22
@@ -351,7 +349,7 @@ Accademia Domani|Smettere Di Fumare: Trattamento Scientifico Rapido per Diventar
 Accademia Domani|Training Autogeno e Rilassamento: La Pratica per il tuo Benessere|https://bitq.it/v2/showcase/prestigioitalia?pp=65092|24.5|0.5|0.22
 Accademia Domani|Babysitter e Assistente all'infanzia|https://bitq.it/v2/showcase/prestigioitalia?pp=76540|24.5|0.5|0.22
 Accademia Domani|Bitcoin: Storia, Struttura, Acquisizione ed Utilizzo della Criptovaluta|https://bitq.it/v2/showcase/prestigioitalia?pp=65170|24.5|0.5|0.22
-Accademia Domani|ContabilitÃ  Generale: Basi e Logica del suo Funzionamento|https://bitq.it/v2/showcase/prestigioitalia?pp=65167|24.5|0.5|0.22
+Accademia Domani|Contabilità Generale: Basi e Logica del suo Funzionamento|https://bitq.it/v2/showcase/prestigioitalia?pp=65167|24.5|0.5|0.22
 Accademia Domani|La Finanza Aziendale: Pianificazione Economico Finanziaria degli Investimenti|https://bitq.it/v2/showcase/prestigioitalia?pp=65168|24.5|0.5|0.22
 Accademia Domani|LinkedIn Senza Segreti|https://bitq.it/v2/showcase/prestigioitalia?pp=76533|24.5|0.5|0.22
 Accademia Domani|Master Avanzato in Consulenza Contabile ed Amministrativa|https://bitq.it/v2/showcase/prestigioitalia?pp=65169|249.5|0.5|0.22
@@ -383,9 +381,9 @@ Accademia Domani|Come Discutere una Tesi di Laurea con Successo|https://bitq.it/
 Accademia Domani|Metodi Vincenti per Scrivere una Tesi di Laurea|https://bitq.it/v2/showcase/prestigioitalia?pp=41046|24.5|0.5|0.22
 Accademia Domani|Bullismo e Cyberbullismo: Riconoscerli e Affrontarli|https://bitq.it/v2/showcase/prestigioitalia?pp=41042|24.5|0.5|0.22
 Accademia Domani|Come Sedurre e Conquistare le Donne... Insegnato da una Donna!|https://bitq.it/v2/showcase/prestigioitalia?pp=41044|24.5|0.5|0.22
-Accademia Domani|Discalculia o DifficoltÃ  in Matematica? Riconoscerla per Intervenire|https://bitq.it/v2/showcase/prestigioitalia?pp=76536|24.5|0.5|0.22
+Accademia Domani|Discalculia o Difficoltà in Matematica? Riconoscerla per Intervenire|https://bitq.it/v2/showcase/prestigioitalia?pp=76536|24.5|0.5|0.22
 Accademia Domani|Disturbi del Comportamento Alimentare: Conoscerli per Intervenire|https://bitq.it/v2/showcase/prestigioitalia?pp=41045|29.5|0.5|0.22
-Accademia Domani|Eros a Due: Conoscere e Affrontare gli Sviluppi e gli Ostacoli della SessualitÃ  di Coppia|https://bitq.it/v2/showcase/prestigioitalia?pp=76538|24.5|0.5|0.22
+Accademia Domani|Eros a Due: Conoscere e Affrontare gli Sviluppi e gli Ostacoli della Sessualità di Coppia|https://bitq.it/v2/showcase/prestigioitalia?pp=76538|24.5|0.5|0.22
 Accademia Domani|Gatto Felice: Stile di Vita, Abitudini e Problemi Comportamentali|https://bitq.it/v2/showcase/prestigioitalia?pp=65105|24.5|0.5|0.22
 Accademia Domani|Gestire L'Ansia e le Fobie del Cane: Come Risolvere i Problemi Comportamentali|https://bitq.it/v2/showcase/prestigioitalia?pp=65106|24.5|0.5|0.22
 Accademia Domani|Il Disturbo di Linguaggio nel Bambino Piccolo|https://bitq.it/v2/showcase/prestigioitalia?pp=41041|24.5|0.5|0.22
@@ -394,7 +392,7 @@ Accademia Domani|La Nostra Coppia è in Crisi: Dinamiche del Conflitto e Strateg
 Accademia Domani|Malattia di Alzheimer: Corso Approfondito per Caregivers|https://bitq.it/v2/showcase/prestigioitalia?pp=76541|24.5|0.5|0.22
 Accademia Domani|Metodo di Studio per Bambini: Come Aiutare Tuo Figlio a Studiare|https://bitq.it/v2/showcase/prestigioitalia?pp=76542|24.5|0.5|0.22
 Accademia Domani|Shiatsu: Massaggio per Tutta la Famiglia|https://bitq.it/v2/showcase/prestigioitalia?pp=76535|24.5|0.5|0.22
-Accademia Domani|Vita di Coppia: Come Trovare La Chiave Per Superare Tutte Le DifficoltÃ |https://bitq.it/v2/showcase/prestigioitalia?pp=65107|24.5|0.5|0.22
+Accademia Domani|Vita di Coppia: Come Trovare La Chiave Per Superare Tutte Le Difficoltà|https://bitq.it/v2/showcase/prestigioitalia?pp=65107|24.5|0.5|0.22
 Accademia Domani|Come Realizzare una Pagina Web a Layout Animato|https://bitq.it/v2/showcase/prestigioitalia?pp=76531|24.5|0.5|0.22
 Accademia Domani|Counseling Aziendale: Gestione dei Conflitti Interni ed Esterni|https://bitq.it/v2/showcase/prestigioitalia?pp=65077|24.5|0.5|0.22
 Accademia Domani|Crea il tuo Piano Marketing in 5 Semplici Step!|https://bitq.it/v2/showcase/prestigioitalia?pp=9453|24.5|0.5|0.22
@@ -413,7 +411,7 @@ Accademia Domani|Motivare in Ambito Lavorativo: Le Parole Efficaci con Clienti, 
 Accademia Domani|Project Management & Business Plan|https://bitq.it/v2/showcase/prestigioitalia?pp=41032|29.5|0.5|0.22
 Accademia Domani|Strumenti di Persuasione: Tecniche e Modalità per Convincere|https://bitq.it/v2/showcase/prestigioitalia?pp=65075|24.5|0.5|0.22
 Accademia Domani|Tecniche di Vendita: Gestione Operativa ed Evoluta per la Professione di Consulente Venditore|https://bitq.it/v2/showcase/prestigioitalia?pp=9458|24.5|0.5|0.22
-Accademia Domani|Counseling psicologico per affrontare le difficoltà  e promuovere il benessere|https://bitq.it/v2/showcase/prestigioitalia?pp=73530|270.0|0.1|0.22
+Accademia Domani|Counseling psicologico per affrontare le difficoltà e promuovere il benessere|https://bitq.it/v2/showcase/prestigioitalia?pp=73530|270.0|0.1|0.22
 Accademia Domani|Gestire al meglio il cambiamento|https://bitq.it/v2/showcase/prestigioitalia?pp=73523|315.0|0.1|0.22
 Accademia Domani|Gestire al meglio il proprio team|https://bitq.it/v2/showcase/prestigioitalia?pp=73524|315.0|0.1|0.22
 Accademia Domani|Il potenziale, come valutarlo e farlo crescere|https://bitq.it/v2/showcase/prestigioitalia?pp=73525|315.0|0.1|0.22
@@ -440,7 +438,6 @@ Accademia Domani|Il Mistero della Vita e della Morte - Un viaggio alla Sorgente 
 Accademia Domani|Meditare in gravidanza|https://bitq.it/v2/showcase/prestigioitalia?pp=143511|13.2|0.12|0.22
 Accademia Domani|Mindfulness - Felici nell'incertezza|https://bitq.it/v2/showcase/prestigioitalia?pp=143503|52.8|0.12|0.22
 Accademia Domani|Rilassamento Profondo - Yoga Nidra|https://bitq.it/v2/showcase/prestigioitalia?pp=143512|13.2|0.12|0.22
--------------------------------------Categoria|Prodotto|Link Offerta|Prezzo Piattaforma|Sconto|Iva Prodotto
 Emozioni ed Esperienze|Aerogravity AeroDOUBLE - Ingresso Lun-Ven (2min di volo x 2pers.)|https://bitq.it/v2/showcase/prestigioitalia?pp=9418|104.88|0.08|0.22
 Emozioni ed Esperienze|Aerogravity AeroDOUBLE - Ingresso WEEK END (2min di volo x 2pers.)|https://bitq.it/v2/showcase/prestigioitalia?pp=9419|123.28|0.08|null
 Emozioni ed Esperienze|Aerogravity AeroFAMILY - Ingresso Lun-Ven (2min di volo x 5pers. di cui 2 under 18)|https://bitq.it/v2/showcase/prestigioitalia?pp=9420|252.08|0.08|null
@@ -506,7 +503,6 @@ Emozioni ed Esperienze|Zip Line Lago Maggiore - Volo Singolo (<17 anni e 65-99 a
 Emozioni ed Esperienze|Zip Line Furore - Volo COPPIA Adulto (18-65 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=97172|66.2|8% - 10%|0.22
 Emozioni ed Esperienze|Zip Line Furore - Volo SINGOLO Adulto (18-65 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=97170|36.0|8% - 10%|null
 Emozioni ed Esperienze|Zip Line Furore - Volo SINGOLO Bambino (<18 o >65 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=97171|33.1|8% - 10%|null
--------------------------------------Categoria|Prodotto|Link Offerta|Prezzo Piattaforma|Sconto|Iva Prodotto
 SPA e Benessere|Aquardens SPA - Ingresso Feriale - Terme & Aree Saune 4 ore|https://bitq.it/v2/showcase/prestigioitalia?pp=100373|33.5|0.12|0.22
 SPA e Benessere|Aquardens SPA - Ingresso Feriale - Terme & Aree Saune 6 ore|https://bitq.it/v2/showcase/prestigioitalia?pp=100374|42.5|0.12|0.22
 SPA e Benessere|Aquardens SPA - Ingresso Feriale - Terme & Aree Saune Giornaliero|https://bitq.it/v2/showcase/prestigioitalia?pp=100375|51.0|0.12|0.22
@@ -581,7 +577,6 @@ SPA e Benessere|Terme di Chianciano - Terme Sensoriali + Percorso del Gusto - Ad
 SPA e Benessere|Terme di Chianciano - Terme Sensoriali OPEN - Adulto (>13 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=105934|40.5|0.1|0.22
 SPA e Benessere|Terme Verona - Villa dei Cedri - Ingresso OPEN Adulto PARCO TERMALE + CENTRO BENESSERE|https://bitq.it/v2/showcase/prestigioitalia?pp=27713|47.84|0.08|0.22
 SPA e Benessere|Terme Verona - Villa dei Cedri - Ingresso PARCO TERMALE - Open TARIFFA UNICA|https://bitq.it/v2/showcase/prestigioitalia?pp=55380|25.76|0.08|0.22
--------------------------------------Categoria|Prodotto|Link Offerta|Prezzo Piattaforma|Sconto|Iva Prodotto
 Mostre e Musei|Visita guidata di Spaccanapoli e Cristo Velato - Napoli, Italia - Adulto (>10 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=46834|33.6|4% - 15%|0% - Esente Art.10 DPR 633/72
 Mostre e Musei|Visita guidata di Spaccanapoli e Cristo Velato - Napoli, Italia - Junior (4-9 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=46834|10.8|4% - 15%|null
 Mostre e Musei|Tour di Pompei con archeologo - Pompei, Italia - Adulto (>18 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=46833|42.0|4% - 15%|null
@@ -644,12 +639,6 @@ Mostre e Musei|Museo Ferrari Pass - Biglietto Ingresso ADULTO (> 19 anni)|https:
 Mostre e Musei|Museo Ferrari Pass - Biglietto Ingresso RIDOTTO (6-19 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=37630|10.5|null|null
 Mostre e Musei|Pinacoteca Ambrosiana - Adulto (>11 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=59639|15.68|0.05|0% - a.74 quater - 633/72
 Mostre e Musei|Pinacoteca Ambrosiana - Bambino (4-11 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=59639|10.93|0.05|null
-null|null|null|null|null|null
-null|null|null|null|null|null
-null|null|null|null|null|null
-null|null|null|null|null|null
-null|null|null|null|null|null
--------------------------------------Categoria|Prodotto|Link Offerta|Prezzo Piattaforma|Sconto|Iva Prodotto
 Viaggi e Turismo|Carnevale a Bormio + Escursione a Livigno - Bormio - Camera DOPPIA (2 px > 13 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=137964|1343.2|0.08|0% - Escluso Art.74 ter D.P.R. 633/72
 Viaggi e Turismo|Carnevale a Bormio + Escursione a Livigno - Bormio - Camera FAMILY 3 (2+1)|https://bitq.it/v2/showcase/prestigioitalia?pp=137964|1880.48|0.08|null
 Viaggi e Turismo|Carnevale a Bormio + Escursione a Livigno - Bormio - Camera FAMILY 4 (2+2)|https://bitq.it/v2/showcase/prestigioitalia?pp=137964|2417.76|0.08|null
@@ -660,14 +649,14 @@ Viaggi e Turismo|Folgarida (Madonna di Campiglio) a Febbraio - Folgarida - Camer
 Viaggi e Turismo|Folgarida (Madonna di Campiglio) a Febbraio - Folgarida - Camera FAMILY 4 (2+2)|https://bitq.it/v2/showcase/prestigioitalia?pp=137963|2103.12|0.08|null
 Viaggi e Turismo|Folgarida (Madonna di Campiglio) a Febbraio - Folgarida - Camera SINGOLA/DUS (1 px > 13 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=137963|680.8|0.08|null
 Viaggi e Turismo|Folgarida (Madonna di Campiglio) a Febbraio - Folgarida - Camera TRIPLA (3 px >13 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=137963|1694.18|0.08|null
-Viaggi e Turismo|Escursione alle isole Murano,Burano di 4:45h  - DA Piazza San Marco A Piazza San Marco - Adulto (> 11 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=95627|18.4|0.08|0.22
-Viaggi e Turismo|Escursione alle isole Murano,Burano di 4:45h - DA Piazza San Marco A Piazza San Marco - Ridotto (4-10 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=95628|9.2|0.08|null
-Viaggi e Turismo|Escursione alle isole Murano,Burano,Torcello di 6:30h - DA Piazza San Marco A Piazza San Marco - Adulto (> 11 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=95625|23.0|0.08|null
-Viaggi e Turismo|Escursione alle isole Murano,Burano,Torcello di 6:30h - DA Piazza San Marco A Piazza San Marco - Ridotto (4-10 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=95626|9.2|0.08|null
-Viaggi e Turismo|Escursione alle isole Murano,Burano,Torcello di 7h - DA Zona Ferrovia A Zona Ferrovia - Adulto (> 11 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=95619|27.6|0.08|null
-Viaggi e Turismo|Escursione alle isole Murano,Burano,Torcello di 7h - DA Zona Ferrovia A Zona Ferrovia - Ridotto (4-10 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=95620|13.8|0.08|null
-Viaggi e Turismo|Escursione alle isole Murano,Burano,Torcello di 8:30h - DA Pontile Fusina A Pontile Fusina - Adulto (> 11 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=95623|27.6|0.08|null
-Viaggi e Turismo|Escursione alle isole Murano,Burano,Torcello di 8:30h - DA Pontile Fusina A Pontile Fusina - Ridotto (4-10 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=95624|13.8|0.08|null
+Viaggi e Turismo|Escursione alle isole Murano,Burano di 4:45h  - DA Piazza San Marco A Piazza San Marco - Adulto (> 11 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=95627|18.4|0.08|0.22
+Viaggi e Turismo|Escursione alle isole Murano,Burano di 4:45h - DA Piazza San Marco A Piazza San Marco - Ridotto (4-10 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=95628|9.2|0.08|null
+Viaggi e Turismo|Escursione alle isole Murano,Burano,Torcello di 6:30h - DA Piazza San Marco A Piazza San Marco - Adulto (> 11 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=95625|23.0|0.08|null
+Viaggi e Turismo|Escursione alle isole Murano,Burano,Torcello di 6:30h - DA Piazza San Marco A Piazza San Marco - Ridotto (4-10 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=95626|9.2|0.08|null
+Viaggi e Turismo|Escursione alle isole Murano,Burano,Torcello di 7h - DA Zona Ferrovia A Zona Ferrovia - Adulto (> 11 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=95619|27.6|0.08|null
+Viaggi e Turismo|Escursione alle isole Murano,Burano,Torcello di 7h - DA Zona Ferrovia A Zona Ferrovia - Ridotto (4-10 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=95620|13.8|0.08|null
+Viaggi e Turismo|Escursione alle isole Murano,Burano,Torcello di 8:30h - DA Pontile Fusina A Pontile Fusina - Adulto (> 11 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=95623|27.6|0.08|null
+Viaggi e Turismo|Escursione alle isole Murano,Burano,Torcello di 8:30h - DA Pontile Fusina A Pontile Fusina - Ridotto (4-10 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=95624|13.8|0.08|null
 Viaggi e Turismo|Starhotels Du Parc (PR) **** - Camera SUPERIOR DOPPIA/DUS|https://bitq.it/v2/showcase/prestigioitalia?pp=61942|105.0|0.1|0.1
 Viaggi e Turismo|Starhotels Du Parc (PR) **** - Camera SUPERIOR DOPPIA/DUS|https://bitq.it/v2/showcase/prestigioitalia?pp=61942|85.0|0.1|null
 Viaggi e Turismo|Starhotels Du Parc (PR) **** - Camera SUPERIOR TRIPLA|https://bitq.it/v2/showcase/prestigioitalia?pp=61942|145.0|0.1|null
@@ -820,7 +809,6 @@ Viaggi e Turismo|Serravalle Shopping Outlet partendo da Piazza Duca D'Aosta (MI)
 Viaggi e Turismo|Serravalle Shopping Outlet partendo da Piazza Duca D'Aosta (MI) - Andata 13:30 - Ritorno 22:00 - Ridotto (4-11 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=59641|9.0|5% - 11%|null
 Viaggi e Turismo|Serravalle Shopping Outlet partendo da Piazza Duca D'Aosta (MI) - VIP SHOPPING PASS - Adulto (>11 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=59641|36.0|5% - 11%|null
 Viaggi e Turismo|Serravalle Shopping Outlet partendo da Piazza Duca D'Aosta (MI) - VIP SHOPPING PASS - Ridotto (4-11 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=59641|27.0|5% - 11%|null
--------------------------------------Categoria|Prodotto|Link Offerta|Prezzo Piattaforma|Sconto|Iva Prodotto
 Cinema |Welcome To Rome - Un viaggio alla scoperta di Roma - Biglietto Adulto OPEN|https://bitq.it/v2/showcase/prestigioitalia?pp=9312|12.47|0.14|0% - FCI Art. 2 D.P.R 633/72
 Cinema |Welcome To Rome - Un viaggio alla scoperta di Roma - Biglietto Ridotto OPEN|https://bitq.it/v2/showcase/prestigioitalia?pp=9313|10.32|0.14|0% - FCI Art. 2 D.P.R 633/73
 Cinema |Cinema Europa - Bologna (BO) - Circuito Cinema Bologna |https://bitq.it/v2/showcase/prestigioitalia?pp=92880|6.4|0.25|0.1
@@ -889,7 +877,6 @@ Cinema |Circuito UNICI Cinema e Arene Carnet 2 ingressi - Biglietti Validi Vener
 Cinema |Circuito UNICI Cinema e Arene Carnet 2 ingressi - Biglietti Validi Lunedì-Giovedì|https://bitq.it/v2/showcase/prestigioitalia?pp=92892|12.6|8% - 30%|0.1
 Cinema |Circuito UNICI Cinema e Arene Carnet 5 ingressi - Biglietti Validi Venerdì-Domenica, Festivi e Prefestivi|https://bitq.it/v2/showcase/prestigioitalia?pp=53758|39.5|8% - 30%|0.1
 Cinema |Circuito UNICI Cinema e Arene Carnet 5 ingressi - Biglietti Validi Lunedì-Giovedì|https://bitq.it/v2/showcase/prestigioitalia?pp=53757|31.0|8% - 30%|0.1
--------------------------------------Categoria|Prodotto|Link Offerta|Prezzo Piattaforma|Sconto|Iva Prodotto
 Shop Card|Voucher Drexcode 80€|https://bitq.it/v2/showcase/prestigioitalia?pp=57621|68.0|0.15|0.22
 Shop Card|Voucher Drexcode 100€|https://bitq.it/v2/showcase/prestigioitalia?pp=57622|85.0|0.15|null
 Shop Card|Voucher Drexcode 150€|https://bitq.it/v2/showcase/prestigioitalia?pp=57623|127.5|0.15|null
@@ -927,14 +914,14 @@ Shop Card|Roadhouse & Calavera Fresh Mex - Gift Card €25,00|https://bitq.it/v2
 Shop Card|Roadhouse & Calavera Fresh Mex - Gift Card €50,00|https://bitq.it/v2/showcase/prestigioitalia?pp=32544|47.5|0.05|null
 Shop Card|Villeroy & Boch - Voucher €100,00 per Shop Online|https://bitq.it/v2/showcase/prestigioitalia?pp=84830|92.0|0.08|0.22
 Shop Card|Villeroy & Boch - Voucher €150,00 per Shop Online|https://bitq.it/v2/showcase/prestigioitalia?pp=84831|138.0|0.08|null
-Shop Card|Scopri la Città  in 10 min in sella ad un eScooter MiMoto + Guida PDF|https://bitq.it/v2/showcase/prestigioitalia?pp=74514|2.24|0.14|0.22
-Shop Card|Scopri la Città  in 120 min in sella ad un eScooter MiMoto + Guida PDF|https://bitq.it/v2/showcase/prestigioitalia?pp=74518|21.5|0.14|null
-Shop Card|Scopri la Città  in 20 min in sella ad un eScooter MiMoto + Guida PDF|https://bitq.it/v2/showcase/prestigioitalia?pp=74515|4.47|0.14|null
-Shop Card|Scopri la Città  in 30 giorni in sella ad un eScooter MiMoto + Guida PDF|https://bitq.it/v2/showcase/prestigioitalia?pp=74521|124.7|0.14|null
-Shop Card|Scopri la Città  in 30 min in sella ad un eScooter MiMoto + Guida PDF|https://bitq.it/v2/showcase/prestigioitalia?pp=74516|6.71|0.14|null
-Shop Card|Scopri la Città  in 300 min in sella ad un eScooter MiMoto + Guida PDF|https://bitq.it/v2/showcase/prestigioitalia?pp=74519|51.6|0.14|null
-Shop Card|Scopri la Città  in 60 min in sella ad un eScooter MiMoto + Guida PDF|https://bitq.it/v2/showcase/prestigioitalia?pp=74517|12.04|0.14|null
-Shop Card|Scopri la Città  in 7 giorni in sella ad un eScooter MiMoto + Guida PDF|https://bitq.it/v2/showcase/prestigioitalia?pp=74520|85.14|0.14|null
+Shop Card|Scopri la Città in 10 min in sella ad un eScooter MiMoto + Guida PDF|https://bitq.it/v2/showcase/prestigioitalia?pp=74514|2.24|0.14|0.22
+Shop Card|Scopri la Città in 120 min in sella ad un eScooter MiMoto + Guida PDF|https://bitq.it/v2/showcase/prestigioitalia?pp=74518|21.5|0.14|null
+Shop Card|Scopri la Città in 20 min in sella ad un eScooter MiMoto + Guida PDF|https://bitq.it/v2/showcase/prestigioitalia?pp=74515|4.47|0.14|null
+Shop Card|Scopri la Città in 30 giorni in sella ad un eScooter MiMoto + Guida PDF|https://bitq.it/v2/showcase/prestigioitalia?pp=74521|124.7|0.14|null
+Shop Card|Scopri la Città in 30 min in sella ad un eScooter MiMoto + Guida PDF|https://bitq.it/v2/showcase/prestigioitalia?pp=74516|6.71|0.14|null
+Shop Card|Scopri la Città in 300 min in sella ad un eScooter MiMoto + Guida PDF|https://bitq.it/v2/showcase/prestigioitalia?pp=74519|51.6|0.14|null
+Shop Card|Scopri la Città in 60 min in sella ad un eScooter MiMoto + Guida PDF|https://bitq.it/v2/showcase/prestigioitalia?pp=74517|12.04|0.14|null
+Shop Card|Scopri la Città in 7 giorni in sella ad un eScooter MiMoto + Guida PDF|https://bitq.it/v2/showcase/prestigioitalia?pp=74520|85.14|0.14|null
 Shop Card|Nintendo Switch - 365 Days Switch Online Membership (Family)|https://bitq.it/v2/showcase/prestigioitalia?pp=77844|32.02|0.1|0.22
 Shop Card|Nintendo Switch - 365 Days Switch Online Membership (Individual)|https://bitq.it/v2/showcase/prestigioitalia?pp=77843|18.29|0.1|null
 Shop Card|Nintendo Switch - 90 Days Switch Online Membership (Individual)|https://bitq.it/v2/showcase/prestigioitalia?pp=77842|7.31|0.1|null
@@ -982,7 +969,6 @@ Shop Card|Urbi - Ricarica Credito APP 50,00€|https://bitq.it/v2/showcase/prest
 Shop Card|Lavaggio a Mano e Sanificazione Vettura|https://bitq.it/v2/showcase/prestigioitalia?pp=58990|46.0|0.08|0.22
 Shop Card|Lavaggio Vettura a Mano|https://bitq.it/v2/showcase/prestigioitalia?pp=58988|27.6|0.08|null
 Shop Card|Sanificazione Vettura|https://bitq.it/v2/showcase/prestigioitalia?pp=58989|18.4|0.08|null
--------------------------------------Categoria|Prodotto|Link Offerta|Prezzo Piattaforma|Sconto|Iva Prodotto
 Parchi Divertimento e Parchi Naturalistici|Galata Museo del Mare + Sommergibile Nazario Sauro - Ingresso ADULTO (18-64 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=139860|15.3|0.1|0% - Esente Art.10 DPR 633/72
 Parchi Divertimento e Parchi Naturalistici|Galata Museo del Mare + Sommergibile Nazario Sauro - Ingresso Family3 (2 Adulti + 1 Ridotto)|https://bitq.it/v2/showcase/prestigioitalia?pp=139862|34.2|0.1|0% - Esente Art.10 DPR 633/73
 Parchi Divertimento e Parchi Naturalistici|Galata Museo del Mare + Sommergibile Nazario Sauro - Ingresso RIDOTTO (7-17 anni e >64 anni)|https://bitq.it/v2/showcase/prestigioitalia?pp=139861|10.8|0.1|0% - Esente Art.10 DPR 633/74
@@ -1013,4 +999,3 @@ Parchi Divertimento e Parchi Naturalistici|Golf Le Rovedine (MI) - Lezione di Pr
 Parchi Divertimento e Parchi Naturalistici|Acquario SEA LIFE Paris - Pinguini, stelle marine, mante e tunnel in mezzo agli squali!|https://bitq.it/v2/showcase/prestigioitalia?pp=125761|16.5|0.03|0% - Escluso Art.74 ter D.P.R. 633/72
 Parchi Divertimento e Parchi Naturalistici|Acquario SEA LIFE Paris - 14 Cours du Danube, 77700, Serris - Adulto (12-99)|https://bitq.it/v2/showcase/prestigioitalia?pp=125761|20.4|0.03|0% - Escluso Art.74 ter D.P.R. 633/73
 Parchi Divertimento e Parchi Naturalistici|Acquario SEA LIFE Paris - 14 Cours du Danube, 77700, Serris - Ridotto (3-11)|https://bitq.it/v2/showcase/prestigioitalia?pp=125761|16.5|0.03|0% - Escluso Art.74 ter D.P.R. 633/74
--------------------------------------
